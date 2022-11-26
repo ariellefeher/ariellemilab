@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ex_02</string>
+    <string name="house_lannister">House Lannister</string>
+    <string name="house_stark">House Stark</string>
+    <string name="title">Title</string>
+    <string name="todo">TODO</string>
+</resources>
