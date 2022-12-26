@@ -1,0 +1,22 @@
+{
+  "name": "ex04",
+  "version": "1.0.0",
+  "description": "Milab Homework 4",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ariellefeher/ariellemilab.git"
+  },
+  "author": "Arielle Feher",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ariellefeher/ariellemilab/issues"
+  },
+  "homepage": "https://github.com/ariellefeher/ariellemilab#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
